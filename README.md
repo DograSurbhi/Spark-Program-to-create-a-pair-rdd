@@ -13,3 +13,4 @@ Also, we need to find two things:
 2. Find the number of symmetric URL pairs <URL1,URL2> such that  URL1 mentions URL2 and URL2 mentions URL1 . (Is there any such symmetric pairs in wikilinks?) 
 
 The solution is provided in the Spark Notebook with the extension ipynb.
+Please use jupyter notebook to run and test code.
